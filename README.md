@@ -13,3 +13,5 @@
 </details>
 
  ![User/Job Story Mapping](https://github.com/RatmirBaryshnikov/diploma-thesis-sa-yp/blob/main/technical_information/User%20Job%20Story%20Mapping.jpg)
+
+ ## DFD контекстного и логического уровня
