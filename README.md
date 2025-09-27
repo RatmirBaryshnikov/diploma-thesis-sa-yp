@@ -1,6 +1,10 @@
 # Приветствую путник, будь как дома!
 Если ты забрел сюда, значит ты хочешь посмотреть артефакты моей учебной дипломной работы.
 
+## Задача
+<p>На основе интервью с заинтересованными лицами создать User/Job Story Mapping, DFD контекстного и логического уровня, логическую ER-модель в 3НФ, словарь данных, прототип, программу и методику испытаний.</p>
+<b>Контекст:</b> компания Stets обратилась для разработки приложения Stets для умного дома.
+
 ## User/Job Story Mapping
 Проведя анализ интервью с заинтересованными лицами выполнена разработка карты User/Job Story с выделением на ней MVP. Посмотреть карту можно перейдя по ссылке [User/Job Story Mapping](https://miro.com/app/board/uXjVJTecBIs=/?share_link_id=396960880533). Истории, вошедшие в MVP, дополнены критериями и сценариями приемки, написанными на языке Gherkin.
 
@@ -10,7 +14,7 @@
   <p>Перейдя по ссылке в miro выдели историю из MVP левым кликом мышки.</p>
   <p>В появившнмся меню нажми на кнопку open in side panel.</p> 
   
-  ![Context level DFD](https://github.com/RatmirBaryshnikov/diploma-thesis-sa-yp/blob/main/technical_information/miro.jpg)
+  ![Miro](https://github.com/RatmirBaryshnikov/diploma-thesis-sa-yp/blob/main/technical_information/miro.jpg)
 
 </details>
 
@@ -39,6 +43,19 @@
 
 ## Прототип
 В Figma создан интерактивный протип приложения. Посмотреть прототип можно перейдя по ссылке [прототип приложения](https://www.figma.com/design/jY96CDIgnmyOkyVuQouKPb/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-Stets-Home-v2?node-id=0-1&t=ZTtdJzYlt5Rdx5zc-1).
+
+<details>
+  <summary><b>Как запустить интерактивный прототип приложения? (Нажми на этот заголовок)</b></summary>
+  
+  <p>Перейдя по ссылке в figma выполни аутентификацию, можно ипользовать учетную запись google.</p>
+  <p>Для запуска интерактивного приложения нажми кнопку present.</p> 
+
+  ![Figma2](https://github.com/RatmirBaryshnikov/diploma-thesis-sa-yp/blob/main/technical_information/figma2.jpg)
+
+  Нажми левой кнопкой мышки на пустом месте прототипа чтобы увидить области доступные для нажатия. 
+  ![Figma3](https://github.com/RatmirBaryshnikov/diploma-thesis-sa-yp/blob/main/technical_information/figma3.jpg)
+</details>
+
 ![Figma](https://github.com/RatmirBaryshnikov/diploma-thesis-sa-yp/blob/main/technical_information/figma.jpg)
 <p>Рис 6. Фрагмент раскадровки </p>
 
