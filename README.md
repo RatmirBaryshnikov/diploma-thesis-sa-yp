@@ -11,7 +11,7 @@
 <details>
   <summary><b>Как увидеть критерии и сценарии приемки? (Нажми на этот заголовок)</b></summary>
   
-  <p>Перейдя по ссылке в Miro, выделите историю из MVP левым кликом мышки.</p>
+  <p>Перейдя по ссылке в Miro, выдели историю из MVP левым кликом мышки.</p>
   <p>В появившемся меню нажми на кнопку open in side panel.</p> 
   
   ![Miro](https://github.com/RatmirBaryshnikov/diploma-thesis-sa-yp/blob/main/technical_information/miro.jpg)
